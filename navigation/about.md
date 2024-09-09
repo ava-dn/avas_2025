@@ -12,10 +12,7 @@ I love neon colors. Some of my favorite foods are fries, tacos, and mint chocola
 
 favorite dog breed is a french bulldog. I have an adorable French Bulldog named Coco!
 
-
-<img src=>"images/coco.jpg" alt="coco">
-
-
+<img src="/images/coco.jpg" alt="Coco image">
 <button><a href="https://www.youtube.com/watch?v=lg6tmuSCQ5A">adorable french bulldogs</a></button>
 
 
