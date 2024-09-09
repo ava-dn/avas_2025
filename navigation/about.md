@@ -4,6 +4,8 @@ title: About Me
 description: About Page
 hide: false
 ---
+**All About Me**
+
 Hi I'm Ava and I'm taking Computer Science Principles. My sport is competitive swim. 
 
 I love going to the beach, swimming, and watching T.V. I love neon colors! 
