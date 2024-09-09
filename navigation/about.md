@@ -1,20 +1,17 @@
 ---
-layout: page
-title: About Ava 
-permalink: /about/
+layout: base
+title: About Me
+description: About Page
+hide: false
 ---
-<h2> All About Ava! </h2>
+Hi I'm Ava and I'm taking Computer Science Principles. My sport is competitive swim. 
 
-<p> Hi, I'm Ava. I was born in San Diego and I go to Del Norte High School. I'm taking computer science 
+I love going to the beach, swimming, and watching T.V. I love neon colors! 
 
-principles. I do competitive swim as my sport. I love going to the beach, shopping, and watching tv. 
+My favorite foods are pizza, french fries, and mint chocolate chip ice cream.
 
-I love neon colors! Some of my favorite foods are fries, tacos, and mint chocolate chip ice cream. My 
+ My favorite dog breed is a french bulldog. I have a girl dog named Coco who is super cute!
 
-favorite dog breed is a french bulldog. I have an adorable French Bulldog named Coco! </p>
+ -Ava
 
-<img src="/images/coco.jpg" alt="Coco image">
-<button><a href="https://www.youtube.com/watch?v=lg6tmuSCQ5A">adorable french bulldogs</a></button>
-
-
-Creator of Ava Shalon's Nighthawk Page
+<button><a href="https://www.youtube.com/watch?v=RbS_1_Ns9bM">adorable french bulldogs</a></button>
