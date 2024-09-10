@@ -6,14 +6,12 @@ hide: false
 ---
 **All About Coco**
 
-My dog's name is Coco. Coco is about 1 and a half years old. 
+My dog's name is Coco. Coco is about 1 and a half years old. She is a french bulldog. Some of her 
 
- She is a french bulldog. Some of her favorite foods 
+favorite foods are hamburgers, salmon, as well as peanut butter. Coco's favorite activities are 
 
-are hamburgers, salmon, as well as peanut butter. Coco's 
+sleeping and playing with other dogs. She gets very angry when people are eating and she can't 
 
-favorite activities are sleeping and playing with other dogs. 
+have their food. Coco also loves to play tug of war and she especially loves when we chase her 
 
-She gets very angry when people are eating and she can't 
-
-have their food.
+around the house!
