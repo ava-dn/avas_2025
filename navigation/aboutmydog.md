@@ -10,8 +10,10 @@ My dog's name is Coco. Coco is about 1 and a half years old.
 
  She is a french bulldog. Some of her favorite foods 
 
-are hamburgers and peanut butter. Coco's favorite activities are sleeping 
+are hamburgers, salmon, as well as peanut butter. Coco's 
 
-and playing with other dogs. She gets very angry when people are eating 
+favorite activities are sleeping and playing with other dogs. 
 
-food that she can't have.
+She gets very angry when people are eating and she can't 
+
+have their food.
