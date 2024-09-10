@@ -16,4 +16,4 @@ have their food. Coco also loves to play tug of war and she especially loves whe
 
 around the house!
 
-<img src="images/coco.png" alt="Cute photo of coco">
+<img src="{{site.baseurl}}/images/coco.jpg" alt="Cute photo of coco">
