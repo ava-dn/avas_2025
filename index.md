@@ -27,3 +27,20 @@ have to look for it. Eventually, I recloned my github repositroy which was succe
  excited to learn even more.
 
  -Ava
+
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mario Page</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Welcome to Mario's Page!</h1>
+    <div class="mario-container">
+        <img src="images/mario.png" alt="Mario" id="mario">
+    </div>
+</body>
+</html>
+
