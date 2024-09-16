@@ -6,13 +6,13 @@ hide: false
 ---
 **All About Me**
 
-Hi I'm Ava and I'm taking Computer Science Principles. My sport is competitive swim. 
+Hi I'm Ava and I'm taking Computer Science Principles. My sport is competitive swim.                                                                               🏊‍♀️
 
-I love going to the beach, swimming, and watching T.V. I love neon colors! 
+I love going to the beach, swimming, and watching T.V. I love neon colors!                                                                                         🌈
 
-My favorite foods are pizza, french fries, and mint chocolate chip ice cream. 
+My favorite foods are pizza, french fries, and mint chocolate chip ice cream.                                                                                      🍕
 
-My favorite dog breed is a french bulldog. I have a girl dog named Coco who is super cute!
+My favorite dog breed is a french bulldog. I have a girl dog named Coco who is super cute!                                                                         🐶
 
  -Ava
 
