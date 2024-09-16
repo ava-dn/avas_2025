@@ -3,7 +3,7 @@ toc: true
 comments: false
 layout: post
 title: Snake Game!
-description: The game with the snake that eats apples
+description: The game with the snake that eats avocados
 type: hacks
 courses: { compsci: {week: 4} }
 ---
@@ -338,12 +338,12 @@ courses: { compsci: {week: 4} }
             ctx. arc(x * BLOCK + BLOCK / 2, y * BLOCK + BLOCK / 2, BLOCK / 2, 0, 2 * Math.PI);
             ctx.fill();
 
-////apple train code
-            //const appleSize = BLOCK;
-            //const appleX = x * BLOCK;
-            //const appleY = y * BLOCK;
-            //ctx.font = `${appleSize}px sans-serif`;
-            //ctx.fillText(":🍎:", appleX, appleY + appleSize);
+////avocado train code
+            //const avocadoSize = BLOCK;
+            //const avocadoX = x * BLOCK;
+            //const avocadoY = y * BLOCK;
+            //ctx.font = `${avocadoSize}px sans-serif`;
+            //ctx.fillText(":🥑:", avocadoX, avocadoY + avocadoSize);
         
         }
         /* Random food placement */
