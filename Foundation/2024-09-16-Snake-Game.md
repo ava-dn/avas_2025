@@ -3,7 +3,7 @@ toc: true
 comments: false
 layout: post
 title: Snake Game!
-description: The game with the snake that eats avocados
+description: The game with the snake that eats apples, move the arrows to control the snake.
 type: hacks
 courses: { compsci: {week: 4} }
 ---
