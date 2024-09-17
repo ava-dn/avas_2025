@@ -67,8 +67,8 @@ courses: { compsci: {week: 4} }
     }
 
     #setting input:checked + label{
-        background-color: #f542c5;
-        color: #FFFFFF;
+        background-color: #57fff1;
+        color: #ff0073;
     }
 </style>
 
