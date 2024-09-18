@@ -339,11 +339,11 @@ courses: { compsci: {week: 4} }
             ctx.fill();
 
 ////avocado train code
-            //const avocadoSize = BLOCK;
-            //const avocadoX = x * BLOCK;
-            //const avocadoY = y * BLOCK;
-            //ctx.font = `${avocadoSize}px sans-serif`;
-            //ctx.fillText(":🥑:", avocadoX, avocadoY + avocadoSize);
+            const avocadoSize = BLOCK;
+            const avocadoX = x * BLOCK;
+            const avocadoY = y * BLOCK;
+            ctx.font = `${avocadoSize}px sans-serif`;
+            ctx.fillText("🥑", avocadoX, avocadoY + avocadoSize);
         
         }
         /* Random food placement */

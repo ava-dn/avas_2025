@@ -1,0 +1,14 @@
+%%js
+
+// assign variable
+var hello = "Hello World";
+console.log("variable: hello")
+console.log(hello)
+
+// seeing the type of this data
+console.log("variable: hello check typeof")
+console.log(typeof hello)
+
+// add strings together
+console.log("string concatenation: hello + Rohan!")
+console.log(hello + " Rohan!")
