@@ -272,7 +272,7 @@ courses: { compsci: {week: 4} }
             }
             // Repaint canvas
             ctx.beginPath();
-            ctx.fillStyle = "#ff6bce";
+            ctx.fillStyle = "#57fff1";
             ctx.fillRect(0, 0, canvas.width, canvas.height);
             // Paint snake
             for(let i = 0; i < snake.length; i++){
