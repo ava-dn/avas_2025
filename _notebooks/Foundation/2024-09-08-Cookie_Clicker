@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cookie Clicker Game</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Cookie Clicker</h1>
+        <button id="cookie-button">🍪</button>
+        <h2 id="cookie-count">Cookies: 0</h2>
+        <h3>Upgrade</h3>
+        <button id="upgrade-button">Buy Upgrade (10 cookies)</button>
+        <h4 id="upgrade-status"></h4>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
