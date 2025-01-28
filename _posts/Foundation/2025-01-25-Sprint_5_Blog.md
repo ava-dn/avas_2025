@@ -32,3 +32,36 @@ maps API system on each individual page that allows the user to pin points, that
 
 lat/lg points, and the user can delete pin as well.
 
+CRUD: 
+def create(self):
+        db.session.add(self)
+        db.session.commit()
+
+    def read(self):
+        return {
+            "id": self.id,
+            "name": self._name,
+            "channel_id": self._channel_id,
+            "attributes": self._attributes,
+            "lat": self.lat,
+            "lng": self.lng,
+            "timestamp": self.timestamp.isoformat(),
+        }
+
+    def update(self, inputs):
+        if 'name' in inputs:
+            self._name = inputs['name']
+        if 'channel_id' in inputs:
+            self._channel_id = inputs['channel_id']
+        if 'attributes' in inputs:
+            self._attributes = inputs['attributes']
+        if 'lat' in inputs:
+            self.lat = inputs['lat']
+        if 'lng' in inputs:
+            self.lng = inputs['lng']
+
+        db.session.commit()
+
+    def delete(self):
+        db.session.delete(self)
+        db.session.commit()
