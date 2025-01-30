@@ -33,16 +33,40 @@ maps API system on each individual page that allows the user to pin points, that
 lat/lg points, and the user can delete pin as well.
 
 **AP REQUIREMENTS**
+
 In your program, you must include student-developed program code that
+
 contains the following:
+
 Instructions for input from one of the following:
+
 - the user (including user actions that trigger events)
+
 - a device
+
 - an online data stream
+
 - a file
 
+- use of at least oone list or other collection Type
 
+- At least one procedure that contributes to the programs intended purpose
 
+- procedure's name 
+
+- the return type (if necessary) 
+
+- one or more parameters
+
+- An algorithm that includes sequencing, selection, and iteration that is in the
+
+body of the selected procedure
+
+- Calls to your student-developed procedure
+
+- Instructions for output (tactile, audible, visual, or textual) based on input and
+
+program functionality
 
 
 
