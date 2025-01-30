@@ -1,12 +1,4 @@
----
-layout: post
-title: Deployment Blog
-description: Team Frostbyte Deployment Blog
-menu: nav/about.html
-permalink: /about/deployment
-author: Risha, Aranya, Abby, Ava, Elliot, Shriya
-comments: true
----
+
 <style>
         .carousel-container {
             display: flex;
@@ -62,7 +54,7 @@ comments: true
 <img src="images/shriya frontend.png" class="carousel-item" onclick="openFullscreen(this.src)">
 <img src="images/shriya code.png" class="carousel-item" onclick="openFullscreen(this.src)">
 <div class="text-item">SHRIYA</div>
-<img src="images/ava frontend.png" class="carousel-item" onclick="openFullscreen(this.src)">
+<img src="images/screenshot1/jpg" class="carousel-item" onclick="openFullscreen(this.src)">
 <img src="images/ava code.png" class="carousel-item" onclick="openFullscreen(this.src)">
 <div class="text-item">AVA</div>
 
