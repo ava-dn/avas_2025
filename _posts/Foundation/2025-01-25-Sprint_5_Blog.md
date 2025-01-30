@@ -46,9 +46,9 @@ Instructions for input from one of the following:
 
 - an online data stream
 
-- a file
+- a file 
 
-- use of at least oone list or other collection Type
+- use of at least one list or other collection Type
 
 - At least one procedure that contributes to the programs intended purpose
 
