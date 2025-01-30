@@ -74,6 +74,7 @@ program functionality
 
 
 1. Formatting Response Data (JSON) into the DOM
+
 When the API sends location data as JSON (like id, lat, lng, and timestamp), the frontend uses JavaScript (e.g., with fetch or Axios) to get this data. It then uses the DOM methods like innerHTML or createElement to display the data on the webpage. This ensures that the user sees the most recent location data from the backend.
 
 GET REQUEST
@@ -84,6 +85,7 @@ def get(self):
     return jsonify([location.read() for location in locations]), 20
 
 2. Queries from Database (Python List of Rows)
+
 Using SQLAlchemy, a Python library, database queries retrieve a list of rows from the locations table. For example, calling Location.query.all() fetches all location records and returns them as Python objects, which are easily processed and converted to dictionaries for JSON output.
 
 locations = Location.query.all()
@@ -92,6 +94,7 @@ The Location.query.all() method returns a Python list of Location objects, where
 
 
 3. Methods in "Class" to Work with Columns (CRUD)
+
 The Location class has methods for CRUD operations. create() saves new records, read() converts the object into a dictionary for JSON, update() modifies existing records, and delete() removes records from the database. These methods simplify working with the database.
 
 CRUD: 
@@ -129,6 +132,7 @@ def create(self):
         db.session.commit()
 
 4. Algorithmic Code Request (Request Handling)
+
 The backend handles requests using methods like post() and get(). For instance, post() creates a new location, and get() retrieves all locations. These methods check for missing or incorrect data and return responses accordingly.
 
 def post(self):
@@ -146,6 +150,7 @@ def post(self):
 This method handles the POST request to create a new location, validating the data and sending back a response.
 
 5. API Class for Get, Post, Put, and Delete Methods
+
 The LocationAPI class handles HTTP methods using Flask-RESTful. It defines routes and links them to actions like creating a new location (POST), getting locations (GET), updating locations (PUT), and deleting a location (DELETE). These routes are set up in the api.add_resource() method.
 
 class LocationAPI:
@@ -170,6 +175,7 @@ class LocationAPI:
 This LocationAPI class uses Flask-RESTful to define routes and methods for handling the full range of HTTP operations (GET, POST, DELETE).
 
 6. Method with Sequencing, Selection, and Iteration
+
 The get() method retrieves all locations with Location.query.all(), iterates over them, and serializes each location using the read() method. It handles whether any locations are found, returning a JSON response accordingly.
 
 def get(self):
@@ -183,6 +189,7 @@ This method performs sequencing (iterating over each Location object), selection
 
 
 7. Parameters (Body of Request) and Return Type (jsonify)
+
 The post() method expects a JSON body with lat, lng, and user_id. It returns a JSON response using jsonify() to send back the created location or an error message if data is missing or invalid.
 
 def post(self):
@@ -200,6 +207,7 @@ def post(self):
 
 
 8. Call to Algorithm Request (Request Definition)
+
 To create a new location, the frontend sends a POST request with data like lat, lng, and user_id. The request is sent via fetch() or Axios, triggering the backend to store the new location in the database.
 
 fetch('/api/location', {
@@ -216,6 +224,7 @@ fetch('/api/location', {
 This example shows how to make a POST request from the frontend to the backend API to create a new location.
 
 9. Return/Response from Method and Data Handling
+
 The backend returns a response in JSON format. If the request is successful, it sends the new location data. If there’s an error (e.g., missing fields), it sends an error message. The frontend handles this response, updating the DOM accordingly.
 
 return jsonify(location.read()), 201
@@ -224,6 +233,7 @@ The backend returns the newly created location as JSON. In case of an error, the
 
 
 10. Changing Data or Method Triggers Different Responses
+
 Changing the data or method in the request can trigger different responses. For example, if required data is missing in a POST request, the backend will return an error (400 Bad Request). If the request is successful, the response will indicate success (201 Created). Different HTTP status codes are used to handle errors or successful actions.
 
 if not data or 'lat' not in data or 'lng' not in data or 'user_id' not in data:
