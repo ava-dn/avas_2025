@@ -32,6 +32,22 @@ maps API system on each individual page that allows the user to pin points, that
 
 lat/lg points, and the user can delete pin as well.
 
+**AP REQUIREMENTS**
+In your program, you must include student-developed program code that
+contains the following:
+Instructions for input from one of the following:
+- the user (including user actions that trigger events)
+- a device
+- an online data stream
+- a file
+
+
+
+
+
+
+
+
 
 1. Formatting Response Data (JSON) into the DOM
 When the API sends location data as JSON (like id, lat, lng, and timestamp), the frontend uses JavaScript (e.g., with fetch or Axios) to get this data. It then uses the DOM methods like innerHTML or createElement to display the data on the webpage. This ensures that the user sees the most recent location data from the backend.
