@@ -18,7 +18,7 @@ the national park as well as give it a star rating. The user can also use the
 
 interactive Google Maps api system on each page.
 
-
+---------------------------------------------------------------
 
 My purpose in Sprint 5 has been designing and developing all 4 of the national park pages, 
 
@@ -299,6 +299,7 @@ required data is missing in a POST request, the backend will return an error (40
  status codes are used to handle errors or successful actions.
 
 if not data or 'lat' not in data or 'lng' not in data or 'user_id' not in data:
+   
     return {'message': 'Missing required fields'}, 400
 
 If the data sent in the request is incomplete or invalid, the backend responds with a 400 error.
