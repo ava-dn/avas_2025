@@ -32,7 +32,7 @@ maps API system on each individual page that allows the user to pin points, that
 
 lat/lg points, and the user can delete pin as well.
 
-**AP REQUIREMENTS**
+**AP REQUIREMENTS** 
 
 In your program, you must include student-developed program code that
 
