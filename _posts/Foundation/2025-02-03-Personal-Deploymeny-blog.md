@@ -182,17 +182,22 @@ Plugins selected: Authenticator nginx, Installer nginx
 Which names would you like to activate HTTPS for?
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 ...
+
 28: cars.nighthawkcodingsociety.com
+
 29: dolphin.nighthawkcodingsociety.com
+
 30: saakd.nighthawkcodingsociety.com
 ...
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Select the appropriate numbers separated by commas and/or spaces, or leave input
+
 blank to select all options shown (Enter 'c' to cancel): # ENTER YOUR CORRESPONDING NUMBER
 
 Cert not yet due for renewal
 
 You have an existing certificate that has exactly the same domains or certificate name you requested and isn't close to expiry.
+
 (ref: /etc/letsencrypt/renewal/nighthawkcodingsociety.com-0001.conf)
 
 What would you like to do?
@@ -233,45 +238,72 @@ Deploying Certificate to VirtualHost /etc/nginx/sites-enabled/nighthawk_flm
 Please choose whether or not to redirect HTTP traffic to HTTPS, removing HTTP access.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 1: No redirect - Make no further changes to the webserver configuration.
+
 2: Redirect - Make all requests redirect to secure HTTPS access. Choose this for
+
 new sites, or if you're confident your site works on HTTPS. You can undo this
+
 change by editing your web server's configuration.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Select the appropriate number [1-2] then [enter] (press 'c' to cancel): 2
+
 Traffic on port 80 already redirecting to ssl in /etc/nginx/sites-enabled/nighthawk_society
+
 Traffic on port 80 already redirecting to ssl in /etc/nginx/sites-enabled/nighthawk_csa
+
 Traffic on port 80 already redirecting to ssl in /etc/nginx/sites-enabled/nighthawk_csp
+
 Traffic on port 80 already redirecting to ssl in /etc/nginx/sites-enabled/nighthawk_flm
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Your existing certificate has been successfully renewed, and the new certificate
+
 has been installed.
 
 The new certificate covers the following domains:
+
 https://nighthawkcodingsociety.com, 
+
 https://csa.nighthawkcodingsociety.com, 
+
 https://csp.nighthawkcodingsociety.com, and
+
 https://flm.nighthawkcodingsociety.com,
 
 You should test your configuration at:
+
 https://www.ssllabs.com/ssltest/analyze.html?d=nighthawkcodingsociety.com
+
 https://www.ssllabs.com/ssltest/analyze.html?d=csa.nighthawkcodingsociety.com
+
 https://www.ssllabs.com/ssltest/analyze.html?d=csp.nighthawkcodingsociety.com
+
 https://www.ssllabs.com/ssltest/analyze.html?d=flm.nighthawkcodingsociety.com
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 IMPORTANT NOTES:
+
  - Congratulations! Your certificate and chain have been saved at:
+
    /etc/letsencrypt/live/nighthawkcodingsociety.com-0001/fullchain.pem
+
    Your key file has been saved at:
+
    /etc/letsencrypt/live/nighthawkcodingsociety.com-0001/privkey.pem
+
    Your cert will expire on 2022-03-06. To obtain a new or tweaked
+
    version of this certificate in the future, simply run certbot again
+
    with the "certonly" option. To non-interactively renew *all* of
+
    your certificates, run "certbot renew"
+
  - If you like Certbot, please consider supporting our work by:
 
+
    Donating to ISRG / Let's Encrypt:   https://letsencrypt.org/donate
+
    Donating to EFF:                    https://eff.org/donate-le
 
 
