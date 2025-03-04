@@ -457,3 +457,51 @@ HTTP vs HTTPS: HTTP is unencrypted, while HTTPS ensures encrypted communication 
 Network Topology: The physical or logical arrangement of devices in a network (e.g., star, bus, mesh).
 Cloud Computing: A computing model where services are delivered over the internet, often in a scalable, on-demand way.
 DNS: A system for translating human-readable domain names into machine-readable IP addresses.
+
+
+
+
+
+OUR STEPS: (TED TALK)
+
+
+
+Ensure your frontend and backend are working locally.
+Set up a subdomain and DNS endpoint via AWS Route 53.
+Choose a backend port (e.g., 8087) and update your Flask app and Docker configuration files accordingly.
+Accessing AWS EC2:
+
+Log in to the AWS Console, select your EC2 instance, and access the terminal via the provided gateway.
+Docker Configuration:
+
+Set up Docker on your local machine using VSCode.
+Configure Dockerfile, docker-compose.yml, and nginx for reverse proxy and port setup.
+Test the setup locally by running docker-compose up.
+Server Setup:
+
+In AWS EC2 terminal, clone your backend repo and build the Docker container.
+Test the app using curl localhost:8087 (replace with chosen port).
+DNS & NGINX Setup:
+
+Configure Route 53 DNS for your subdomain.
+Set up NGINX as a reverse proxy for your domain.
+Test your domain using http://.
+Certbot Setup:
+
+Use Certbot to secure your site with HTTPS.
+Test with https:// after successful certificate installation.
+Code Changes and Deployment:
+
+Make code changes in VSCode, commit them, and test locally before pushing.
+Pull updates into AWS EC2, rebuild the Docker container, and restart your service.
+Optional Troubleshooting:
+
+Use commands like curl localhost:8087 or docker ps to check the status of your app and troubleshoot any issues.
+Cockpit Overview:
+
+Use Cockpit for monitoring server health, logs, storage, and networking.
+Manage user accounts and perform software updates.
+Final Steps:
+
+Update system time, hostname, and user accounts as necessary.
+Test everything to ensure your site is live and functioning correctly.
