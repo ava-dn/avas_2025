@@ -23,9 +23,9 @@ look back on them in the future
 about section 
 
 
-#5 I completed an at home night at the museum reviewing 5 different people (my group got feedback 
+#5 I completed an at home night at the museum reviewing 5 different people (my group got 
 
-from about 20 people) and was an active contributor in the planning process of the project 
+feedback from about 20 people) and was an active contributor in the planning process of the project 
 
 —----------------------
 
@@ -122,6 +122,16 @@ accessing all stored locations.
 ---------------------
 
 
+
+<img src="{{site.baseurl}}/images/Screenshot 2025-03-05 094701.png" alt="working in postman">
+
+
+
+
+
+
+------------------------
+
 **CPT REQUIREMENTS:**
 
 
@@ -204,6 +214,11 @@ Thought the page was a little confusing to navigate
 Enojoyed the google maps api and the star system, made it seem really 
 
 professional as that is a common feature on professional websites
+
+
+#4 My sister 
+
+Loved the designing of the page 
 
 
 
