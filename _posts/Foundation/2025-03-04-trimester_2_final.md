@@ -1,58 +1,176 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Tri 2 Final</title>
-  <style>
-    /* Apply overall page styling */
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f0f4f8;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      margin: 0;
-    }
+# **Tri 2 Final 🎉**
 
-    /* Big, bold title style */
-    h1 {
-      font-size: 5rem; /* Makes the title really large */
-      font-weight: bold;
-      color: #FF5733; /* Bright color for the title */
-      text-align: center;
-      text-transform: uppercase;
-      animation: bounce 1s ease infinite, colorChange 3s linear infinite;
-    }
 
-    /* Bouncing animation */
-    @keyframes bounce {
-      0%, 100% {
-        transform: translateY(0);
-      }
-      50% {
-        transform: translateY(-30px);
-      }
-    }
+5 things I did 
 
-    /* Color-changing animation */
-    @keyframes colorChange {
-      0% {
-        color: #FF5733;
-      }
-      50% {
-        color: #C70039;
-      }
-      100% {
-        color: #FF5733;
-      }
-    }
-  </style>
-</head>
-<body>
 
-  <h1>Tri 2 Final 🎉</h1>
+#1 I worked on a lot of the frontend for the various national park pages: the image scrollers, hiking trails, wildlife
 
-</body>
-</html>
+
+#2 I completed various blogs on the college board main ideas to put in my personal so I can look back on them in the future 
+
+
+#3 I created a Google Maps API system for each national park using google cloud developer
+
+
+#4 I completed a large part of our group’s major deployment blog that is on our site in the about section 
+
+
+#5 I completed an at home night at the museum reviewing 5 different people (my group got feedback from about 20 people) and was an active contributor in the planning process of the project 
+
+—
+
+MY CODE: 
+
+
+
+explanation of api code:
+
+
+lines 1-8 blueprint
+
+
+lines 8-14  Defines a Flask Blueprint for the location API with a base URL , 
+
+An instance of Api attached to the location_api Blueprint.
+
+POST Request: The user sends their location (latitude and longitude) to 
+
+store or update it.
+
+Post REQUEST
+
+@token_required()
+def post(self):
+
+
+
+Get request
+
+@token_required()
+def get(self):
+
+
+The @token_required decorator ensures authentication.
+
+Retrieves the user's location from the database using Location.query.
+
+filter_by(user_id=current_user.id).first().
+
+If no location is found, a 404 error is returned.
+
+If the location is found, it returns the location data.
+
+
+
+
+_ALL_LOCATIONS Resource
+
+
+This endpoint is for admin users to access all stored locations.
+
+class _ALL_LOCATIONS(Resource):
+    def get(self):
+
+It retrieves all location entries from the database using Location.query.all
+
+().
+
+Returns a list of all locations as JSON.
+
+Mapping API Resources
+
+api.add_resource(LocationAPI._CRUD, '/location')
+
+api.add_resource(LocationAPI._ALL_LOCATIONS, '/locations')
+
+Maps the endpoints to the corresponding resources.
+
+/api/location is mapped to the LocationAPI._CRUD resource for handling 
+
+individual user locations.
+
+/api/locations is mapped to the LocationAPI._ALL_LOCATIONS resource for 
+
+accessing all stored locations.
+
+
+CPT REQUIREMENTS: 
+
+Big Idea 1 (Creative Development): 
+
+
+This API shows creativity because it allows for a working and interactive map
+
+on each national park page wher
+
+
+
+
+
+Personal Night at the Museum Feedback:
+
+
+#1 Talya - 
+
+
+Post and review system seem a little redundant as they both have a very similar functionality. 
+
+Loves the different images of each park, says they contribute to the page a lot and
+
+adds life to the project
+
+#2 My dad - 
+
+
+He loves camping so he especially enjoyed the camping post feauture where you pick the
+
+biome of your park and write about yor experience ther so others can see it.
+
+Thought the page was a little confusing to navigate
+
+
+
+
+#5 Sharon -
+
+Enjoyed the quiz and thought it was very accurate and a very interactive user experience
+
+(tried it out herself)
+
+
+The gemini did not work as expected when we tried it 
+
+BLOG WRITE UP:  the Google Maps API I created allows users to interact with a map. When a user clicks on a specific point on the map, the latitude and longitude points of that specific spot are captured. These coordinates are then stored in a database, allowing the user to save the location and stay there after reloading the page. This functionality enhances the user experience by providing an interactive interface for location-based data collection.
+
+a
+
+
+
+COMP SCI FINAL →
+
+Interest in others projects:
+Reaching out: Find someone monday morning
+
+Talk with sharon 
+Im considering comp sci A, computer science A is more of a classwide project learning more about communication and getting through small errors because lots of different people committing.. More about organization and planning, java instead python
+Wants to take cognitive science, which uses computer science which is important in college and the future. I thought just a computer science major involves comp sci, didnt know it incorporates other majors
+
+
+
+
+Self Grade: 0.925
+
+
+Why:
+
+
+➡️ Attendance: always one of the first ones here on time and prepared
+
+➡️ Work Ethic: I always contributed during the live reviews and my work was always completed on time
+
+➡️ Office hours: Came to CSP tutoring many times
+
+➡️ Reaching Out: Met with sharon from Comp sci A practiced live reviews compared projects, 
+
+talked about how comp sci has helped her
