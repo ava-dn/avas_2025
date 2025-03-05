@@ -200,6 +200,39 @@ in JSON format. It lets the user know their location and review have been succes
 
 
 
+**CRUD FUNCTIONALITY IN MY MODEL**
+
+def create(self):
+        """Save the location to the database."""
+        db.session.add(self)
+        db.session.commit()
+
+    def read(self):
+        """Convert the location object to a dictionary for JSON serialization."""
+        return {
+            "id": self.id,
+            "user_id": self.user_id,
+            "channel_id": self.channel_id,
+            "latitude": self.latitude,
+            "longitude": self.longitude,
+            "timestamp": self.timestamp.isoformat()
+        }
+
+    def update(self):
+        """Update the location in the database."""
+        db.session.add(self)  # Explicitly add it to the session (mark it as modified)
+        db.session.commit()
+
+    def delete(self):
+        """Delete the location from the database."""
+        db.session.delete(self)
+        db.session.commit()
+
+
+
+
+
+
 
 
 **FRQ PRACTICE:**
