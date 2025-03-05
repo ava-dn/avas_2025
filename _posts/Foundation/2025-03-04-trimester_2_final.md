@@ -4,19 +4,27 @@
 5 things I did 
 
 
-#1 I worked on a lot of the frontend for the various national park pages: the image scrollers, hiking trails, wildlife
+#1 I worked on a lot of the frontend for the various national park pages: the image scrollers,
+
+ hiking trails, wildlife
 
 
-#2 I completed various blogs on the college board main ideas to put in my personal so I can look back on them in the future 
+#2 I completed various blogs on the college board main ideas to put in my personal so I can look back 
+
+on them in the future 
 
 
 #3 I created a Google Maps API system for each national park using google cloud developer
 
 
-#4 I completed a large part of our group’s major deployment blog that is on our site in the about section 
+#4 I completed a large part of our group’s major deployment blog that is on our site in the 
+
+about section 
 
 
-#5 I completed an at home night at the museum reviewing 5 different people (my group got feedback from about 20 people) and was an active contributor in the planning process of the project 
+#5 I completed an at home night at the museum reviewing 5 different people (my group got feedback from about 20
+
+people) and was an active contributor in the planning process of the project 
 
 —
 
@@ -102,8 +110,27 @@ Big Idea 1 (Creative Development):
 
 This API shows creativity because it allows for a working and interactive map
 
-on each national park page wher
+on each national park page where the user can see where the various national 
 
+parks are located and what they look like.
+
+
+FRQ PRACTICE: 
+
+
+BLOG WRITE UP:  the Google Maps API I created allows users to interact 
+
+with a map. When a user clicks on a specific point on the map, the 
+
+latitude and longitude points of that specific spot are captured.
+
+ These coordinates are then stored in a database, allowing the user
+ 
+  to save the location and stay there after reloading the page. 
+  
+  This functionality enhances the user experience by providing 
+  
+  an interactive interface for location-based data collection.
 
 
 
@@ -119,6 +146,8 @@ Post and review system seem a little redundant as they both have a very similar 
 Loves the different images of each park, says they contribute to the page a lot and
 
 adds life to the project
+
+
 
 #2 My dad - 
 
@@ -141,20 +170,24 @@ Enjoyed the quiz and thought it was very accurate and a very interactive user ex
 
 The gemini did not work as expected when we tried it 
 
-BLOG WRITE UP:  the Google Maps API I created allows users to interact with a map. When a user clicks on a specific point on the map, the latitude and longitude points of that specific spot are captured. These coordinates are then stored in a database, allowing the user to save the location and stay there after reloading the page. This functionality enhances the user experience by providing an interactive interface for location-based data collection.
-
-a
-
 
 
 COMP SCI FINAL →
 
-Interest in others projects:
-Reaching out: Find someone monday morning
 
 Talk with sharon 
-Im considering comp sci A, computer science A is more of a classwide project learning more about communication and getting through small errors because lots of different people committing.. More about organization and planning, java instead python
-Wants to take cognitive science, which uses computer science which is important in college and the future. I thought just a computer science major involves comp sci, didnt know it incorporates other majors
+
+
+Im considering comp sci A, computer science A is more of a classwide project learning more about communication and 
+
+getting through small errors because lots of different people committing. More about organization and 
+
+planning, java instead python
+
+
+Wants to take cognitive science, which uses computer science which is important in college and the future.
+
+ I thought just a computer science major involves comp sci, didnt know it incorporates other majors
 
 
 
@@ -167,10 +200,26 @@ Why:
 
 ➡️ Attendance: always one of the first ones here on time and prepared
 
-➡️ Work Ethic: I always contributed during the live reviews and my work was always completed on time
+➡️ Work Ethic: I always contributed during the live reviews and my work was always 
+
+completed on time
 
 ➡️ Office hours: Came to CSP tutoring many times
 
-➡️ Reaching Out: Met with sharon from Comp sci A practiced live reviews compared projects, 
+➡️ Reaching Out: Met with sharon from Comp sci A, practiced live reviews compared 
 
-talked about how comp sci has helped her
+projects, talked about how comp sci has helped her
+
+
+
+A few key takeaways from this class
+
+
+
+⭐ COMMUNICATION
+
+⭐ SPEAKING
+
+⭐ WORKING AS A GROUP
+
+⭐ ACCOUNTABILITY
