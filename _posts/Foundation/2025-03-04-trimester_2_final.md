@@ -157,11 +157,22 @@ the same spot later.
 Algorithm (Sequencing, Selection, Iteration)
 
 
+Code Snippet
+
+
 try:
     location_data = request.get_json()
-    if not location_data or 'latitude' not in location_data or 'longitude' not in location_data:
+    
+    if not location_data or 'latitude' not in location_data or 'longitude' not in
+    
+     location_data:
         return jsonify({"error": "Latitude and Longitude are required"}), 400
-Explanation: This is an example of selection in the code. It checks if the necessary data (latitude and longitude) is provided in the request. If not, an error message is returned.
+
+
+
+Explanation: This is an example of selection in the code. It checks if the necessary
+
+ data (latitude and longitude) is provided in the request. If not, an error message is returned.
 
 
 Procedure Call
@@ -185,9 +196,6 @@ return jsonify({"message": "Location saved successfully", "location": location_r
 Explanation: This sends a confirmation message back to the user, including the saved location data, 
 
 in JSON format. It lets the user know their location and review have been successfully saved.
-
-
-
 
 
 
