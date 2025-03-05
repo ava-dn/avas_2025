@@ -148,8 +148,7 @@ parks are located and what they look like.
 
 Big Idea 2 (Data): 
 
-
-
+API deals with data through the database by saving and storing locations.
 
 
 
@@ -172,15 +171,22 @@ latitude and longitude points of that specific spot are captured.
   an interactive interface for location-based data collection.
 
 
-<img src="{{site.baseurl}}/images/postman.png" alt="working in postman">
-
 
 
 MC
 
 
 
+<img src="{{site.baseurl}}/images/Screenshot 2025-03-05 095458.png" alt="working in postman">
 
+
+
+
+
+
+
+
+<img src="{{site.baseurl}}/images/Screenshot 2025-03-05 095321.png" alt="working in postman">
 
 
 
