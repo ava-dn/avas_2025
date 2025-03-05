@@ -135,20 +135,61 @@ accessing all stored locations.
 **CPT REQUIREMENTS:**
 
 
-Big Idea 1 (Creative Development): 
+self.location_history.append({"user_id": user_id, "location": location, "review": review})
 
 
-This API shows creativity because it allows for a working and interactive map
+Explanation: This code adds a user's location and associated review to the location_history list,
 
-on each national park page where the user can see where the various national 
+helping track the user's pinned locations and reviews over time.
 
-parks are located and what they look like.
+Student-Developed Procedure
+ 
+def save_location(self, user_id, latitude, longitude, review):
+
+Explanation: This function allows users to save a specific location (latitude and longitude) 
+
+along with their review. It stores this information in the system, enabling users to return to 
+
+the same spot later.
 
 
 
-Big Idea 2 (Data): 
+Algorithm (Sequencing, Selection, Iteration)
 
-API deals with data through the database by saving and storing locations.
+
+try:
+    location_data = request.get_json()
+    if not location_data or 'latitude' not in location_data or 'longitude' not in location_data:
+        return jsonify({"error": "Latitude and Longitude are required"}), 400
+Explanation: This is an example of selection in the code. It checks if the necessary data (latitude and longitude) is provided in the request. If not, an error message is returned.
+
+
+Procedure Call
+
+
+location_response = self.save_location(user_id, latitude, longitude, review)
+
+Explanation: This calls the save_location() method to store the user’s location and review based on the 
+
+data received. It saves the data to the database and returns a response indicating the success or 
+
+failure of the operation.
+
+
+
+Output Statement
+
+return jsonify({"message": "Location saved successfully", "location": location_response})
+
+
+Explanation: This sends a confirmation message back to the user, including the saved location data, 
+
+in JSON format. It lets the user know their location and review have been successfully saved.
+
+
+
+
+
 
 
 
