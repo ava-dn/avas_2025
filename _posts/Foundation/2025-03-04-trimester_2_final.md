@@ -225,7 +225,7 @@ Why:
 
 completed on time
 
-➡️ Office hours: Came to CSP tutoring many times
+➡️ Office hours: Came to CSP tutoring many times to get help 
 
 ➡️ Reaching Out: Met with sharon from Comp sci A, practiced live reviews compared 
 
