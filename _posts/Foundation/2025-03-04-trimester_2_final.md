@@ -6,7 +6,7 @@
 
 #1 I worked on a lot of the frontend for the various national park pages: the image scrollers,
 
- hiking trails, wildlife
+ hiking trails, wildlife and styling
 
 
 #2 I completed various blogs on the college board main ideas to put in my personal so I can look back 
@@ -103,7 +103,11 @@ individual user locations.
 accessing all stored locations.
 
 
+
+
+
 CPT REQUIREMENTS: 
+
 
 Big Idea 1 (Creative Development): 
 
@@ -113,6 +117,14 @@ This API shows creativity because it allows for a working and interactive map
 on each national park page where the user can see where the various national 
 
 parks are located and what they look like.
+
+
+Big Idea 2 (Data): 
+
+
+
+
+
 
 
 FRQ PRACTICE: 
@@ -132,6 +144,8 @@ latitude and longitude points of that specific spot are captured.
   
   an interactive interface for location-based data collection.
 
+
+<img src="{{site.baseurl}}/images/postman.png" alt="working in postman">
 
 
 
@@ -158,6 +172,13 @@ biome of your park and write about yor experience ther so others can see it.
 
 Thought the page was a little confusing to navigate
 
+
+
+#3 My brother
+
+Enojoyed the google maps api and the star system, made it seem really professional as that
+
+is a common feature on professional websites
 
 
 
