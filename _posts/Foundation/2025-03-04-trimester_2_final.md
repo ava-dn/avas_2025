@@ -4,6 +4,7 @@
 5 things I did 
 
 
+
 #1 I worked on a lot of the frontend for the various national park pages: the image scrollers,
 
  hiking trails, wildlife and styling
@@ -26,9 +27,11 @@ about section
 
 people) and was an active contributor in the planning process of the project 
 
-—
+—----------------------
 
 MY CODE: 
+
+<img src="{{site.baseurl}}/images/pppp.png" alt="beginning of code">
 
 
 
@@ -37,10 +40,18 @@ explanation of api code:
 
 lines 1-8 blueprint
 
+---------------
 
 lines 8-14  Defines a Flask Blueprint for the location API with a base URL , 
 
 An instance of Api attached to the location_api Blueprint.
+
+
+--------------
+
+
+<img src="{{site.baseurl}}/images/mm.png" alt="end of code">
+
 
 POST Request: The user sends their location (latitude and longitude) to 
 
@@ -51,13 +62,14 @@ Post REQUEST
 @token_required()
 def post(self):
 
-
+-------------
 
 Get request
 
 @token_required()
 def get(self):
 
+----------------------
 
 The @token_required decorator ensures authentication.
 
@@ -70,7 +82,7 @@ If no location is found, a 404 error is returned.
 If the location is found, it returns the location data.
 
 
-
+------------------
 
 _ALL_LOCATIONS Resource
 
@@ -85,6 +97,10 @@ It retrieves all location entries from the database using Location.query.all
 ().
 
 Returns a list of all locations as JSON.
+
+
+-----------------
+
 
 Mapping API Resources
 
@@ -103,10 +119,10 @@ individual user locations.
 accessing all stored locations.
 
 
+---------------------
 
 
-
-CPT REQUIREMENTS: 
+**CPT REQUIREMENTS:**
 
 
 Big Idea 1 (Creative Development): 
@@ -119,6 +135,7 @@ on each national park page where the user can see where the various national
 parks are located and what they look like.
 
 
+
 Big Idea 2 (Data): 
 
 
@@ -127,7 +144,7 @@ Big Idea 2 (Data):
 
 
 
-FRQ PRACTICE: 
+**FRQ PRACTICE:**
 
 
 BLOG WRITE UP:  the Google Maps API I created allows users to interact 
