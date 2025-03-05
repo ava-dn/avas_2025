@@ -10,9 +10,9 @@
  hiking trails, wildlife and styling
 
 
-#2 I completed various blogs on the college board main ideas to put in my personal so I can look back 
+#2 I completed various blogs on the college board main ideas to put in my personal so I can 
 
-on them in the future 
+look back on them in the future 
 
 
 #3 I created a Google Maps API system for each national park using google cloud developer
@@ -23,9 +23,9 @@ on them in the future
 about section 
 
 
-#5 I completed an at home night at the museum reviewing 5 different people (my group got feedback from about 20
+#5 I completed an at home night at the museum reviewing 5 different people (my group got feedback 
 
-people) and was an active contributor in the planning process of the project 
+from about 20 people) and was an active contributor in the planning process of the project 
 
 —----------------------
 
@@ -166,6 +166,14 @@ latitude and longitude points of that specific spot are captured.
 
 
 
+MC
+
+
+
+
+
+
+
 Personal Night at the Museum Feedback:
 
 
@@ -193,9 +201,9 @@ Thought the page was a little confusing to navigate
 
 #3 My brother
 
-Enojoyed the google maps api and the star system, made it seem really professional as that
+Enojoyed the google maps api and the star system, made it seem really 
 
-is a common feature on professional websites
+professional as that is a common feature on professional websites
 
 
 
@@ -216,16 +224,20 @@ COMP SCI FINAL →
 Talk with sharon 
 
 
-Im considering comp sci A, computer science A is more of a classwide project learning more about communication and 
+Im considering comp sci A, computer science A is more of a classwide project 
 
-getting through small errors because lots of different people committing. More about organization and 
+learning more about communication and 
 
-planning, java instead python
+getting through small errors because lots of different people committing. 
+
+More about organization and planning, java instead python
 
 
-Wants to take cognitive science, which uses computer science which is important in college and the future.
+Sharon wants to take cognitive science, which uses computer science which is 
 
- I thought just a computer science major involves comp sci, didnt know it incorporates other majors
+important in college and the future. I thought just a computer science major 
+
+involves comp sci, didnt know it incorporates other majors
 
 
 
@@ -238,15 +250,15 @@ Why:
 
 ➡️ Attendance: always one of the first ones here on time and prepared
 
-➡️ Work Ethic: I always contributed during the live reviews and my work was always 
+➡️ Work Ethic: I always contributed during the live reviews and my work was 
 
-completed on time
+always completed on time
 
 ➡️ Office hours: Came to CSP tutoring many times to get help 
 
-➡️ Reaching Out: Met with sharon from Comp sci A, practiced live reviews compared 
+➡️ Reaching Out: Met with sharon from Comp sci A, practiced live reviews 
 
-projects, talked about how comp sci has helped her
+compared projects, talked about how comp sci has helped her
 
 
 
