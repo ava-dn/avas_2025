@@ -135,102 +135,119 @@ accessing all stored locations.
 **CPT REQUIREMENTS:**
 
 
+Adding Location and Review to History:
+
+
 self.location_history.append({"user_id": user_id, "location": location, "review": review})
 
 
-Explanation: This code adds a user's location and associated review to the location_history list,
 
-helping track the user's pinned locations and reviews over time.
 
-Student-Developed Procedure
- 
+Explanation: This code adds a user’s location and their review to the location_history 
+
+list. It helps track the locations users have pinned along with their associated
+
+ reviews, creating a historical log for future reference.
+
+
+
+
+
+Student-Developed Procedure:
+
+
 def save_location(self, user_id, latitude, longitude, review):
-
-Explanation: This function allows users to save a specific location (latitude and longitude) 
-
-along with their review. It stores this information in the system, enabling users to return to 
-
-the same spot later.
+    """Save a specific location with its review."""
+    location = {"user_id": user_id, "latitude": latitude, "longitude": longitude, "review": review}
+    self.location_history.append(location)
+    return location
 
 
 
-Algorithm (Sequencing, Selection, Iteration)
+
+Explanation: The save_location method stores a user's latitude, longitude, and review for a 
 
 
-Code Snippet
+particular location. This allows users to return to the same spot later by saving and 
 
+referencing their data in the system.
+
+
+
+
+
+Algorithm (Sequencing, Selection, Iteration):
 
 try:
     location_data = request.get_json()
-    
-    if not location_data or 'latitude' not in location_data or 'longitude' not in
-    
-     location_data:
+
+    if not location_data or 'latitude' not in location_data or 'longitude' not in location_data:
         return jsonify({"error": "Latitude and Longitude are required"}), 400
 
 
 
-Explanation: This is an example of selection in the code. It checks if the necessary
 
- data (latitude and longitude) is provided in the request. If not, an error message is returned.
+Explanation: This code illustrates selection through the if statement. It checks whether the 
+
+required fields (latitude and longitude) are present in the incoming request data. If missing, 
+
+it returns an error message indicating that both coordinates are necessary.
 
 
-Procedure Call
 
+
+Procedure Call:
 
 location_response = self.save_location(user_id, latitude, longitude, review)
 
-Explanation: This calls the save_location() method to store the user’s location and review based on the 
-
-data received. It saves the data to the database and returns a response indicating the success or 
-
-failure of the operation.
 
 
+Explanation: This line calls the save_location method to store the user's location 
 
-Output Statement
+and their review. It sends the received data to be saved and stores it in the system, 
+
+preparing a response for the user.
+
+
+
+
+Output Statement:
+
 
 return jsonify({"message": "Location saved successfully", "location": location_response})
 
 
-Explanation: This sends a confirmation message back to the user, including the saved location data, 
 
-in JSON format. It lets the user know their location and review have been successfully saved.
+Explanation: This statement sends a JSON response back to the user, confirming that their 
+
+location and review have been saved successfully. It includes the saved location data to 
+
+verify that the operation was successful.
 
 
 
 
-**CRUD FUNCTIONALITY IN MY MODEL**
+CRUD Functionality in Model
+
+
+The Create operation is a key part of CRUD (Create, Read, Update, Delete) functionality. Here's how 
+
+you could define a method to save a new location to the database:
+
 
 def create(self):
-        """Save the location to the database."""
-        db.session.add(self)
-        db.session.commit()
-
-    def read(self):
-        """Convert the location object to a dictionary for JSON serialization."""
-        return {
-            "id": self.id,
-            "user_id": self.user_id,
-            "channel_id": self.channel_id,
-            "latitude": self.latitude,
-            "longitude": self.longitude,
-            "timestamp": self.timestamp.isoformat()
-        }
-
-    def update(self):
-        """Update the location in the database."""
-        db.session.add(self)  # Explicitly add it to the session (mark it as modified)
-        db.session.commit()
-
-    def delete(self):
-        """Delete the location from the database."""
-        db.session.delete(self)
-        db.session.commit()
+    """Save the location to the database."""
+    db.session.add(self)
+    db.session.commit()
 
 
 
 
+Explanation: This create method adds the location object to the database session and commits it,
+
+ effectively saving the new location record to the database. This supports the "Create" 
+ 
+ aspect of CRUD functionality.
 
 
 
