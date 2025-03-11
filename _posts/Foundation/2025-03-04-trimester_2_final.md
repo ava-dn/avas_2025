@@ -135,7 +135,11 @@ accessing all stored locations.
 **CPT REQUIREMENTS:**
 
 
+
+
 Adding Location and Review to History:
+
+
 
 
 self.location_history.append({"user_id": user_id, "location": location, "review": review})
@@ -156,6 +160,9 @@ list. It helps track the locations users have pinned along with their associated
 Student-Developed Procedure:
 
 
+
+
+
 def save_location(self, user_id, latitude, longitude, review):
     """Save a specific location with its review."""
     location = {"user_id": user_id, "latitude": latitude, "longitude": longitude, "review": review}
@@ -165,10 +172,12 @@ def save_location(self, user_id, latitude, longitude, review):
 
 
 
+
 Explanation: The save_location method stores a user's latitude, longitude, and review for a 
 
 
 particular location. This allows users to return to the same spot later by saving and 
+
 
 referencing their data in the system.
 
@@ -177,6 +186,11 @@ referencing their data in the system.
 
 
 Algorithm (Sequencing, Selection, Iteration):
+
+
+
+
+
 
 try:
     location_data = request.get_json()
@@ -198,6 +212,10 @@ it returns an error message indicating that both coordinates are necessary.
 
 Procedure Call:
 
+
+
+
+
 location_response = self.save_location(user_id, latitude, longitude, review)
 
 
@@ -212,6 +230,8 @@ preparing a response for the user.
 
 
 Output Statement:
+
+
 
 
 return jsonify({"message": "Location saved successfully", "location": location_response})
@@ -233,6 +253,9 @@ CRUD Functionality in Model
 The Create operation is a key part of CRUD (Create, Read, Update, Delete) functionality. Here's how 
 
 you could define a method to save a new location to the database:
+
+
+
 
 
 def create(self):
