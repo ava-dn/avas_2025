@@ -482,3 +482,13 @@ I’ll also work on time management by practicing with timed exams.
 In summary, while I’m strong in certain areas, I need to focus on binary data, 
 
 debugging, and computational problem-solving to improve my performance.
+
+
+<script src="https://utteranc.es/client.js"
+        repo="nighthawkcoders/portfolio_2025"
+        issue-term="title"
+        label="blogpost-comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
