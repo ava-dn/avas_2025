@@ -420,7 +420,7 @@ A few key takeaways from this class
 
 
 
-MC Personal reflection:
+**MC Personal reflection:**
 
 Strengths:
 
