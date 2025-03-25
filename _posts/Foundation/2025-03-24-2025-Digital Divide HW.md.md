@@ -1,0 +1,57 @@
+## Digital Divide HW
+
+Popcorn Hack: Example Problem in MCQ
+
+Question: Which of the following actions are likely to be helpful in reducing 
+
+the digital divide? Select two answers.
+
+Options
+
+A. Designing new technologies intended only for advanced users
+
+B. Designing new technologies to be accessible to individuals with different physical abilities
+
+C. Implementing government regulations restricting citizens’ access to Web content
+
+D. Having world governments support the construction of network infrastructure
+
+
+
+CORRECT ANSWERS: B & D
+
+
+
+
+## Popcorn Hack 2
+
+To fix the digital divide, we can expand access to affordable internet and technology, 
+
+offer digital literacy programs, and ensure underserved communities receive support. 
+
+Some efforts already include government-funded internet access and nonprofit initiatives. 
+
+We can add more public Wi-Fi spaces and increase tech training for all ages to 
+
+bridge the gap further.
+
+
+
+## HW Hack
+
+
+
+
+- added a loop to iterate through each row of the cleaned dataset, checking the value of 
+
+Rate (WB) (internet access percentage).
+
+
+- Depending on whether the percentage is above or below 70%, the program prints the country 
+
+name, the percentage, and either "doing great" or "needs improvement."
+
+
+- The solution uses a simple conditional statement within a loop to generate the 
+
+desired output for each country.
