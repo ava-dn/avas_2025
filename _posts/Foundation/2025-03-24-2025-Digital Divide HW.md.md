@@ -59,7 +59,6 @@ desired output for each country.
 
 
 
-```python
 import pandas as pd
 
 data = pd.read_csv("internet_users.csv").drop(columns=['Notes', 'Year.2', 'Users (CIA)', 'Rate (ITU)', 'Year.1']) # Drop extra columns: we will not be using these
@@ -71,9 +70,6 @@ print(data_cleaned.head()) # Display the first few rows of the cleaned data
 # print(len(data)) # Check num of rows before removing blank rows
 # print(len(data_cleaned)) # Check num of rows after removing blank rows
 
-
-
-
 Location  Rate (WB)    Year
 0        World       67.4  2023.0
 1  Afghanistan       18.4  2020.0
@@ -81,10 +77,8 @@ Location  Rate (WB)    Year
 3      Algeria       71.2  2022.0
 5      Andorra       94.5  2022.0
 
-
-
 y = data_cleaned['Rate (WB)'] # Take Percentage of the population using the internet from World Bank data in dataset
-name = data_cleaned['Location'] # take contry name from WB data in dataset
+name = data_cleaned['Location'] # take country name from WB data in dataset
 
 # [INSERT YOUR CODE HERE]
 data_cleaned['Status'] = ['doing great' if rate > 70 else 'needs improvement' for rate in y]
@@ -92,10 +86,6 @@ data_cleaned['Status'] = ['doing great' if rate > 70 else 'needs improvement' fo
 # Print the results
 for country, rate, status in zip(name, y, data_cleaned['Status']):
     print(f"{country}: {rate}%: {status}")
-
-
-
-
 
 World: 67.4%: needs improvement
 Afghanistan: 18.4%: needs improvement
@@ -307,10 +297,10 @@ Yemen: 26.7%: needs improvement
 Zambia: 31.2%: needs improvement
 Zimbabwe: 32.6%: needs improvement
 
-
 /tmp/ipykernel_198745/3944393366.py:5: SettingWithCopyWarning: 
 A value is trying to be set on a copy of a slice from a DataFrame.
 Try using .loc[row_indexer,col_indexer] = value instead
 
 See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
   data_cleaned['Status'] = ['doing great' if rate > 70 else 'needs improvement' for rate in y]
+
