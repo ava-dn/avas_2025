@@ -123,7 +123,7 @@ Cambodia: 56.7%: needs improvement
 Cameroon: 43.9%: needs improvement
 Canada: 94.6%: doing great
 Cape Verde: 72.1%: doing great
-Cayman Islands: 81.1%: doing great
+2 Islands: 81.1%: doing great
 Central African Republic: 10.6%: needs improvement
 Chad: 12.2%: needs improvement
 Chile: 94.1%: doing great
