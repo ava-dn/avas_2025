@@ -53,7 +53,7 @@ print(eligible_ages)
 
 
 
-#### Notes from video #1
+#### Notes from video #2
 
 -
 -
@@ -119,4 +119,14 @@ def filter_spotify_data(csv_file):
         print("No songs found with more than 10 million streams.")
 
 filter_spotify_data("spotify_data_2024.csv")
+```
+
+
+**Output:**
+
+```py
+Songs with over 10 million streams:
+
+Song: Shape of You, Artist: Ed Sheeran, Streams: 50000000
+Song: Blinding Lights, Artist: The Weeknd, Streams: 12000000
 ```
