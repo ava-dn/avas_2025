@@ -1,7 +1,7 @@
-#### List and Algorithm Hw
+## List and Algorithm Hw
 
 
-## Popcorn Hack #1
+#### Popcorn Hack #1
 
 ```python
 # Create the original list
@@ -23,7 +23,7 @@ print(movies)
 
 
 
-## Popcorn Hack #2 
+#### Popcorn Hack #2 
 
 
 ```python 
@@ -33,4 +33,90 @@ ages = [15, 20, 34, 16, 18, 21, 14, 19]
 eligible_ages = [age for age in ages if age >= 18]
 
 print(eligible_ages)
+```
+
+
+
+## HW HACK 1
+
+
+
+#### Notes from video #1
+
+-
+-
+-
+-
+-
+-
+-
+
+
+
+#### Notes from video #1
+
+-
+-
+-
+-
+-
+-
+-
+
+
+## HW HACK 2
+
+
+```py
+# Initialize the list with numbers from 1 to 30
+numbers = list(range(1, 31))
+
+# Filter out numbers divisible by 3 but not by 5
+filtered_numbers = [num for num in numbers if num % 3 == 0 and num % 5 != 0]
+
+# Print the original and filtered lists
+print("Original List:", numbers)
+print("Filtered List (divisible by 3 but not 5):", filtered_numbers)
+```
+
+**Output:**
+
+```py
+Original List: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30]
+Filtered List (divisible by 3 but not 5): [3, 6, 9, 12, 18, 21, 24, 27]
+```
+
+
+## HW HACK 3
+
+
+```py
+import csv
+
+def filter_spotify_data(csv_file):
+    # Initialize an empty list to store filtered songs
+    filtered_songs = []
+
+    # Open the CSV file and read the data
+    with open(csv_file, mode='r', encoding='utf-8') as file:
+        reader = csv.DictReader(file)
+        
+        # Loop through each row in the CSV file
+        for row in reader:
+            # Convert the 'Streams' value to an integer
+            streams = int(row["Streams"])
+
+            # Check if the song has more than 10 million streams
+            if streams > 10000000:
+                filtered_songs.append(row)
+    
+    # Display the filtered songs
+    if filtered_songs:
+        print(f"Songs with over 10 million streams:\n")
+        for song in filtered_songs:
+            print(f"Song: {song['Song Name']}, Artist: {song['Artist']}, Streams: {song['Streams']}")
+    else:
+        print("No songs found with more than 10 million streams.")
+
+filter_spotify_data("spotify_data_2024.csv")
 ```
