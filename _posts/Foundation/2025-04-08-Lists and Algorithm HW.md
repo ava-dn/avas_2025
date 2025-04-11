@@ -130,3 +130,16 @@ Songs with over 10 million streams:
 Song: Shape of You, Artist: Ed Sheeran, Streams: 50000000
 Song: Blinding Lights, Artist: The Weeknd, Streams: 12000000
 ```
+
+
+## Review Quesitons
+
+
+1. What are lists in Python and how do you use them?
+Lists are used in Python to store multiple items in one place. You can change them, add new items, remove items, and look at specific items using their position (called an index). You can also loop through them and check if something is in the list.
+
+2. Real-world example of a filtering algorithm:
+A filtering algorithm is used in email spam filters. It checks emails for spammy words or known spam senders and moves them to the spam folder if needed.
+
+3. Why is it important to check how efficient a filtering algorithm is?
+Efficient filtering algorithms are faster and use less computer power. This helps apps run better, saves time, and gives users quicker results—especially when working with a lot of data.
