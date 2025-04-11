@@ -43,25 +43,25 @@ print(eligible_ages)
 
 #### Notes from video #1
 
--
--
--
--
--
--
--
+- In python, lists are a built in data structure for storing and accessing objects which belong in a specific sequence.
+- There are 2 ways to build a list: one way is to use the list constructor but a simpler way is to use brackets
+- When creating a list you can prepopulate it with values
+- You can always add values later by using the append method
+- Lists conserve the order of the data which is different from sets
+- In lists order is everything
+- You do not have to view the entire list if you want to see a specific value you can access it by its index
 
 
 
 #### Notes from video #2
 
--
--
--
--
--
--
--
+- A list comprehension is an easier and more readable way to create a list.
+- Brackets mean that you are creating a list
+- List comprehensions are much easier to write and print the same result from the 4 loop
+-  the benefits of using comprehensions over conventional loops, such as reduced code length and improved clarity
+- while comprehensions are powerful, they should be used carefully to maintain code readability, especially when dealing with complex operations
+- comprehensions are a way to concisely create new sequences (like lists, sets, or dictionaries) from existing ones, often using a single line of code
+- Set comprehension is a method for creating sets in python using the elements from other iterables like lists, sets, or tuples
 
 
 ## HW HACK 2
