@@ -2,6 +2,8 @@
 
 
 
+
+
 **Popcorn Hack 1**
 
 
@@ -11,6 +13,9 @@ An algorithm can be used to solve an undecidable problem. (True/False)
 **Correct Answer: FALSE**
 
 
+
+
+
 **Popcorn Hack 2**
 
 
@@ -18,6 +23,10 @@ If a programmer encounters an undecidable problem, they can just use an alogirht
 
 
 **Correct Answer: TRUE**
+
+
+
+
 
 
 **Popcorn Hack 3**
@@ -34,6 +43,9 @@ C. Rice’s Theorem
 D. Bubble sorting
 
 ANSWER: D
+
+
+
 
 
 
@@ -56,11 +68,16 @@ True or False: In a directed graph, an edge from node A to node B implies that t
 
 
 
+
+
 ### Popcorn #2
 
 True or False: Heuristics always provide faster solutions than exact algorithms, but they may sacrifice accuracy for speed
 
 **Correct Answer: True**
+
+
+
 
 
 
@@ -72,6 +89,8 @@ Popcorn Hack #3
 True or False: While heuristic algorithms like the Nearest Neighbor algorithm can significantly reduce the computational time for TSP, they can never guarantee an optimal solution, and the gap between the heuristic solution and the optimal solution can grow exponentially as the number of cities increases.
 
 **Correct Answer: True**
+
+
 
 
 
