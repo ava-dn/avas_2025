@@ -1,5 +1,36 @@
 ## Personal Study Blog 
 
+
+
+<div style="font-family: sans-serif; text-align: center; margin-top: 20px;">
+  <h2>📚 Countdown to AP CSP Test 📅</h2>
+  <h1 id="countdown" style="font-size: 2rem; color: #4f46e5;"></h1>
+</div>
+
+<script>
+  const testDate = new Date("May 15, 2025 08:00:00").getTime();
+
+  const countdownFunc = setInterval(() => {
+    const now = new Date().getTime();
+    const distance = testDate - now;
+
+    if (distance < 0) {
+      clearInterval(countdownFunc);
+      document.getElementById("countdown").innerHTML = "🚀 It's test day! You got this!";
+      return;
+    }
+
+    const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+    const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+    const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+    const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+    document.getElementById("countdown").innerHTML =
+      `${days}d ${hours}h ${minutes}m ${seconds}s`;
+  }, 1000);
+</script>
+
+
 | Date       | Topic                               |
 |------------|--------------------------------------------|
 | Apr 21     | [Big Idea 1: Creative Development](https://apclassroom.collegeboard.org/103/home?unit=1) |
