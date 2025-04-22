@@ -16,7 +16,7 @@
 
     if (distance < 0) {
       clearInterval(countdownFunc);
-      document.getElementById("countdown").innerHTML = "🚀 It's test day! You got this!";
+      document.getElementById("countdown").innerHTML = "🚀 It's test day!";
       return;
     }
 
@@ -58,6 +58,6 @@
 | May 10     | FRQ Practice Set 3 (Untimed + Feedback)    |
 | May 11     | Concept Review: Weakest Areas              |
 | May 12     | Full-Length Mock Test (Timed)              |
-| May 13     | Review Mistakes from Mock                  |
+| May 13     | Review Mistakes from Practice MCs          |
 | May 14     | Light Review + Rest + Confidence           |
 | **May 15** | **✅ Test Day**            |
