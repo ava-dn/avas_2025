@@ -1,13 +1,12 @@
 ## Personal Study Blog 
 
-| Date       | Focus Topic                               |
+| Date       | Topic                               |
 |------------|--------------------------------------------|
-| Apr 20     | Overview: Big Ideas + What’s on the Test   |
-| Apr 21     | Big Idea 1: Creative Development           |
-| Apr 22     | Big Idea 2: Data                           |
-| Apr 23     | Big Idea 3: Algorithms & Programming       |
-| Apr 24     | Big Idea 4: Computer Systems & Networks    |
-| Apr 25     | Big Idea 5: Impact of Computing            |
+| Apr 21     | [Big Idea 1: Creative Development](https://apclassroom.collegeboard.org/103/home?unit=1) |
+| Apr 22     | [Big Idea 2: Data](https://apclassroom.collegeboard.org/103/home?unit=2) |
+| Apr 23     | [Big Idea 3: Algorithms & Programming](https://apclassroom.collegeboard.org/103/home?unit=3) |
+| Apr 24     | [Big Idea 4: Computer Systems & Networks](https://apclassroom.collegeboard.org/103/home?unit=4) |
+| Apr 25     | [Big Idea 5: Impact of Computing](https://apclassroom.collegeboard.org/103/home?unit=5) |
 | Apr 26     | Review: Binary + Number Systems            |
 | Apr 27     | Practice FRQs: Abstraction                 |
 | Apr 28     | Practice FRQs: Data & Algorithms           |
