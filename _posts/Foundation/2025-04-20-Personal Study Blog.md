@@ -75,3 +75,28 @@
     loading="lazy">
   </iframe>
 </div>
+
+
+<div style="margin-top: 2rem;">
+  <h2>Study Videos: AP CSP Crash Courses</h2>
+
+  <!-- Unit 1 -->
+  <h3 style="color:#4f46e5;">Big Idea 1: Creative Development</h3>
+  <iframe width="100%" height="315" src="https://www.youtube.com/embed/CjKUtZHkJ9M" frameborder="0" allowfullscreen></iframe>
+
+  <!-- Unit 2 -->
+  <h3 style="color:#4f46e5;">Big Idea 2: Data</h3>
+  <iframe width="100%" height="315" src="https://www.youtube.com/embed/nKIu9yen5nc" frameborder="0" allowfullscreen></iframe>
+
+  <!-- Unit 3 -->
+  <h3 style="color:#4f46e5;">Big Idea 3: Algorithms & Programming</h3>
+  <iframe width="100%" height="315" src="https://www.youtube.com/embed/IqtpV9x42qY" frameborder="0" allowfullscreen></iframe>
+
+  <!-- Unit 4 -->
+  <h3 style="color:#4f46e5;">Big Idea 4: Computer Systems & Networks</h3>
+  <iframe width="100%" height="315" src="https://www.youtube.com/embed/qMO-LTOrJaE" frameborder="0" allowfullscreen></iframe>
+
+  <!-- Unit 5 -->
+  <h3 style="color:#4f46e5;">Big Idea 5: Impact of Computing</h3>
+  <iframe width="100%" height="315" src="https://www.youtube.com/embed/4Q0gYjAVonI" frameborder="0" allowfullscreen></iframe>
+</div>
