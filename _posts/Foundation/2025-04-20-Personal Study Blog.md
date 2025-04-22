@@ -61,3 +61,17 @@
 | May 13     | Review Mistakes from Practice MCs          |
 | May 14     | Light Review + Rest + Confidence           |
 | **May 15** | **✅ Test Day**            |
+
+
+
+<div style="margin: 20px 0;">
+  <h2>🧠 Practice with Flashcards!</h2>
+  <iframe 
+    src="https://quizlet.com/593721377/match/embed?i=4v4pqu&x=1jj1" 
+    height="500" 
+    width="100%" 
+    style="border:0"
+    allowfullscreen
+    loading="lazy">
+  </iframe>
+</div>
