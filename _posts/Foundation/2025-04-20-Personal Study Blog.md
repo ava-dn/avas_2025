@@ -137,6 +137,12 @@
 
 
 
+### How I can improve
+
+- use scratch paper
+- do math on paper
+- read all answers use process of elimination
+
 
 #### More study tools 
 
