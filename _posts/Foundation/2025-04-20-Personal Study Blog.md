@@ -110,7 +110,9 @@
 <img src="{{site.baseurl}}/images/Mc.jpg" alt="Mc">
 
 
-Time spent: 1:29
+
+
+### Time spent: 1:29
 
 
 
@@ -133,3 +135,50 @@ Time spent: 1:29
 - Simulations
 - A couple privacy concepts I messed up
 
+
+
+
+#### More study tools 
+
+
+
+**Beneficial/ Harmful Effects**
+
+
+https://manas12709.github.io/BigIdeaTeamTeach/teach/bigidea5
+
+
+
+
+**Digital Divide**
+
+
+https://adik1025.github.io/imop_frontend/posts/digital-divide/
+
+
+
+**Computing Bias**
+
+
+https://gavincopley.github.io/Palomar-MediPulse/csp/teach/computing_bias
+
+
+
+**Crowdsourcing**
+
+
+https://tvick22.github.io/DataMango/team-teach/crowdsourcingLesson
+
+
+
+**Legal / Ethical Concerns**
+
+
+https://ahaanv19.github.io/big_ideateamteach/
+
+
+
+
+**Safe Computing**
+
+https://gavincopley.github.io/Palomar-MediPulse/csp/teach/safe_computing/all
