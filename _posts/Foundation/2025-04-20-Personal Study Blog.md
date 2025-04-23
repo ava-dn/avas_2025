@@ -3,7 +3,7 @@
 
 
 <div style="font-family: sans-serif; text-align: center; margin-top: 20px;">
-  <h2>📚 Countdown to AP CSP Test 📅</h2>
+  <h2>Countdown to AP CSP Test 📅</h2>
   <h1 id="countdown" style="font-size: 2rem; color: #4f46e5;"></h1>
 </div>
 
@@ -82,7 +82,7 @@
 
   <!-- Unit 1 -->
   <h3 style="color:#4f46e5;">Big Idea 1: Creative Development</h3>
-  <iframe width="100%" height="315" src="https://www.youtube.com/embed/CjKUtZHkJ9M" frameborder="0" allowfullscreen></iframe>
+  <iframe width="100%" height="315" src="https://www.youtube.com/embed/5ywI3Ow0eSY" frameborder="0" allowfullscreen></iframe>
 
   <!-- Unit 2 -->
   <h3 style="color:#4f46e5;">Big Idea 2: Data</h3>
@@ -90,7 +90,7 @@
 
   <!-- Unit 3 -->
   <h3 style="color:#4f46e5;">Big Idea 3: Algorithms & Programming</h3>
-  <iframe width="100%" height="315" src="https://www.youtube.com/embed/IqtpV9x42qY" frameborder="0" allowfullscreen></iframe>
+  <iframe width="100%" height="315" src="https://www.youtube.com/embed/T5JnzxWi0xA" frameborder="0" allowfullscreen></iframe>
 
   <!-- Unit 4 -->
   <h3 style="color:#4f46e5;">Big Idea 4: Computer Systems & Networks</h3>
@@ -98,7 +98,7 @@
 
   <!-- Unit 5 -->
   <h3 style="color:#4f46e5;">Big Idea 5: Impact of Computing</h3>
-  <iframe width="100%" height="315" src="https://www.youtube.com/embed/4Q0gYjAVonI" frameborder="0" allowfullscreen></iframe>
+  <iframe width="100%" height="315" src="https://www.youtube.com/embed/oC1JEEmRuL4" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
@@ -108,3 +108,28 @@
 
 
 <img src="{{site.baseurl}}/images/Mc.jpg" alt="Mc">
+
+
+Time spent: 1:29
+
+
+
+#### What I did well on 
+
+
+
+- Crowdsourcing\
+- Data privacy Digital divide 
+- Creative commons 
+- Internet and Cybersecurity 
+- Algorithms/ Programming (Binary, loops, conditionals, logic based problems)
+
+
+#### What I need to improve on
+
+
+- If-else logic
+- List array manipulation (moving/removing lines from code)
+- Simulations
+- A couple privacy concepts I messed up
+
