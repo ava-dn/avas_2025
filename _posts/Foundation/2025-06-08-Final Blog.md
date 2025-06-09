@@ -10,7 +10,8 @@ This tool allows users to input branded or community hashtags and instantly rece
 
 Average likes per hashtag, Estimated reach/views, A calculated success score out of 10
 
-My unique qualities: I heavily helped design the frontend of the page and came up with the idea of extracting data from Legoland. I helped in bringing the team closer with one another 
+**My Unique Qualities** I played a key role in designing the front-end interface of our project, ensuring it was both visually engaging and user-friendly. Additionally, I proposed the idea of extracting and analyzing data from Legoland’s social media presence, which became a central focus of our project. Beyond the technical aspects, I also contributed to fostering strong collaboration within our team, helping to maintain a positive and cohesive working environment throughout the development process.
+
 
 
 
