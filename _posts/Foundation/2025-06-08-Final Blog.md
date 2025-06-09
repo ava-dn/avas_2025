@@ -8,8 +8,26 @@ As a developer deeply interested in data, social media trends, and user engageme
 
 This tool allows users to input branded or community hashtags and instantly receive key metrics such as:
 
-Average likes per hashtag
+Average likes per hashtag, Estimated reach/views, A calculated success score out of 10
 
-Estimated reach/views
+My unique qualities: I heavily helped design the frontend of the page and came up with the idea of extracting data from Legoland. I helped in bringing the team closer with one another 
 
-A calculated success score out of 10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### N@TM June 2025
+
+
