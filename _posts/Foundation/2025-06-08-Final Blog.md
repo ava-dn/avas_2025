@@ -29,7 +29,7 @@ Average likes per hashtag, Estimated reach/views, A calculated success score out
 
 
 
-### N@TM June 2025
+### 5. N@TM June 2025
 
 
 At Night at the Museum last week, our table attracted a steady crowd throughout the event. I was excited to see how engaged people were with our project, a Legoland social media website that analyzed various social media metrics. Many visitors found the concept fascinating, and I enjoyed explaining how we tracked and interpreted user engagement, reach, and growth trends. The positive feedback and thoughtful questions from the audience made the experience very rewarding and motivating. Overall, presenting our project in such a dynamic environment was an incredible opportunity to share our work and connect with others interested in computer science and social media analytics.
@@ -44,3 +44,27 @@ After we finished presenting, I had the chance to explore some of the other tabl
 
 
 <img src="{{site.baseurl}}/images/natm2.jpg" alt="Review photo" style="width:300px;">
+
+
+### 6. Stats
+
+
+
+TOTAL COMMITS: 430
+
+
+<img src="{{site.baseurl}}/images/commits.png" alt="Review photo" style="width:300px;">
+
+
+
+
+<img src="{{site.baseurl}}/images/issue.png" alt="Review photo" style="width:300px;">
+
+<img src="{{site.baseurl}}/images/y.png" alt="Review photo" style="width:300px;">
+
+<img src="{{site.baseurl}}/images/issue1.png" alt="Review photo" style="width:300px;">
+
+<img src="{{site.baseurl}}/images/issue2.png" alt="Review photo" style="width:300px;">
+
+
+### Trying out the grade predictor
