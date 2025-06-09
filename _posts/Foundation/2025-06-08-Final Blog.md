@@ -31,3 +31,4 @@ My unique qualities: I heavily helped design the frontend of the page and came u
 ### N@TM June 2025
 
 
+My experience: At Night at the Museum last week, there were many people crowded around around our table throughout our time at the event. I really saw people being engaged with our project and everyone found it to be very interesting.
