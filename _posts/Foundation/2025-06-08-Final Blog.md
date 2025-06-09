@@ -39,7 +39,8 @@ After we finished presenting, I had the chance to explore some of the other tabl
 
 
 
+
 <img src="{{site.baseurl}}/images/.natm1.jpg" alt="Review photo">
 
 
-<img src="{{site.baseurl}}/images/natm2.jpg" alt="Review photo">
+<img src="{{site.baseurl}}/images/natm2.jpg" alt="Review photo" style="width:300px;">
