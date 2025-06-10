@@ -11,6 +11,16 @@
 My project from trimester 2 -->   Google maps api integration for our national parks page 
 
 
+- Built an interactive web app showcasing four major national parks
+
+- Integrated Google Maps API for detailed views, markers, and park info
+
+- Enabled users to share posts, tips, and photos about their park experiences
+
+- Added park rating features to support community feedback
+
+- Combined geolocation tech with social features to engage outdoor enthusiasts
+
 
 
 <img src="{{site.baseurl}}/images/nn.png" alt="Review photo" style="width:300px;">
@@ -26,7 +36,16 @@ For me, this was an intro into APIs which I really dived into during third trime
 **FAVORITE PROJECT** - Project from trimester 3 -->   Legoland social media analyzer
 
 
-As a developer deeply interested in data, social media trends, and user engagement, one of the projects I’m most proud of is a social media analysis platform built specifically for LEGOLAND. At the heart of it is a custom-built tool I developed called the Hashtag Engagement Analyzer.
+- Developed a dynamic web app to analyze Legoland’s social media metrics
+
+- Tracked real-time data on user engagement, post reach, and growth trends
+
+- Built an interactive, user-friendly frontend with charts and dashboards
+
+- Highlighted social strategy effectiveness and identified engagement opportunities
+
+- Collaborated with a team to integrate data analytics with modern web design
+
 
 
 This project made me qualified to win a paid Pilot city internship which is why I selected this as my favorite project.
