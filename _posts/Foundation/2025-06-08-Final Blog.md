@@ -1,5 +1,11 @@
 ## Final Blog!
 
+### Key ineterests
+
+
+I'm really interested in design and problem-solving, and I enjoy using coding to bring those two things together. I like finding creative ways to make ideas work and turning them into real, useful projects. Coding gives me a way to build things that not only look good but also solve problems and make tasks easier. I see it as a great mix of creativity and logic, and that's what keeps me motivated to keep learning and improving.
+
+
 
 ### Favorite project and my Unique Qualities
 
@@ -18,14 +24,10 @@ Average likes per hashtag, Estimated reach/views, A calculated success score out
 
 
 
+[Google Sheet](https://docs.google.com/spreadsheets/d/130ktKxISceMDomdYkFfVWEz7gGZjjEeqFx7oyh7ub5U/edit?gid=0#gid=0)
 
 
-
-
-
-
-
-
+[Google Sheet](https://docs.google.com/spreadsheets/d/144DzvGJCNFAdwL5g0mkvn9Uh-vOnWB-clap3J_yz7kE/edit?gid=0#gid=0)
 
 
 
@@ -45,6 +47,7 @@ After we finished presenting, I had the chance to explore some of the other tabl
 
 
 <img src="{{site.baseurl}}/images/natm2.jpg" alt="Review photo" style="width:300px;">
+
 
 
 ### 6. Stats
@@ -68,16 +71,3 @@ TOTAL COMMITS: 430
 <img src="{{site.baseurl}}/images/issue2.png" alt="Review photo" style="width:300px;">
 
 
-### Hw proof 
-
-[Google Sheet](https://docs.google.com/spreadsheets/d/130ktKxISceMDomdYkFfVWEz7gGZjjEeqFx7oyh7ub5U/edit?gid=0#gid=0)
-
-
-[Google Sheet](https://docs.google.com/spreadsheets/d/144DzvGJCNFAdwL5g0mkvn9Uh-vOnWB-clap3J_yz7kE/edit?gid=0#gid=0)
-
-
-
-
-
-
-### Trying out the grade predictor
