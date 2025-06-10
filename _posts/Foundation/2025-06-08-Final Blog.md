@@ -34,8 +34,23 @@ This project made me qualified to win a paid Pilot city internship which is why 
 
 [Google Sheet](https://docs.google.com/spreadsheets/d/144DzvGJCNFAdwL5g0mkvn9Uh-vOnWB-clap3J_yz7kE/edit?gid=0#gid=0)
 
+# AP Computer Science Homeworks
 
-
+| #  | Title                                       | Date         | Link                                                                 |
+|-----|---------------------------------------------|--------------|----------------------------------------------------------------------|
+| 1   | Simulation Games and Random Algorithms HW  | Apr 20, 2025 | [Simulation Games and Random Algorithms HW](https://ava-dn.github.io/avas_2025/blogs/simulation.html) |
+| 2   | Images HW                                   | Apr 29, 2025 | [Images HW](https://ava-dn.github.io/avas_2025/blogs/images-hw.html)   |
+| 3   | Big O HW                                    | Apr 22, 2025 | [Big O HW](https://ava-dn.github.io/avas_2025/blogs/big-o-hw.html)     |
+| 4   | Undecidable Problems and Graphs HW         | Apr 22, 2025 | [Undecidable Problems and Graphs HW](https://ava-dn.github.io/avas_2025/blogs/undecidable-problems-and-graphs-hw.html) |
+| 5   | Random algorithms and simulation games HW  | Apr 11, 2025 | [Random algorithms and simulation games HW](https://ava-dn.github.io/avas_2025/blogs/random-algorithms-and-simulation-games-hw.html) |
+| 6   | Lists and Algorithm HW                      | Apr 8, 2025  | [Lists and algorithm hw](https://ava-dn.github.io/avas_2025/blogs/lists-and-algorithm-hw.html) |
+| 7   | Binary HW                                  | Apr 7, 2025  | [Binary HW](https://ava-dn.github.io/avas_2025/blogs/binary-hw.html)   |
+| 8   | Privacy risks from data collection HW      | Apr 1, 2025  | [Privacy risks from data collection HW](https://ava-dn.github.io/avas_2025/blogs/privacy-risks-from-data-collection-hw.html) |
+| 9   | Legal/ Ethical HW                          | Mar 31, 2025 | [Legal/ Ethical HW](https://ava-dn.github.io/avas_2025/blogs/ethical-hw.html) |
+| 10  | Digital Divide HW                          | Mar 24, 2025 | [Digital Divide HW](https://ava-dn.github.io/avas_2025/blogs/2025-digital-divide-hw.html) |
+| 11  | Computerbias HW                           | Mar 23, 2025 | [Computerbias HW](https://ava-dn.github.io/avas_2025/blogs/computerbiashw.html) |
+| 12  | Hw2                                        | Mar 21, 2025 | [Hw2](https://ava-dn.github.io/avas_2025/blogs/hw2.html)               |
+| 13  | Safe Computing HW                          | Mar 20, 2025 | [Safe Computing HW](https://ava-dn.github.io/avas_2025/blogs/tech-hw.html)       |
 
 
 
