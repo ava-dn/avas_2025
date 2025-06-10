@@ -10,10 +10,11 @@ This tool allows users to input branded or community hashtags and instantly rece
 
 Average likes per hashtag, Estimated reach/views, A calculated success score out of 10
 
+
 **My Unique Qualities** I played a key role in designing the front-end interface of our project, ensuring it was both visually engaging and user-friendly. Additionally, I proposed the idea of extracting and analyzing data from Legoland’s social media presence, which became a central focus of our project. Beyond the technical aspects, I also contributed to fostering strong collaboration within our team, helping to maintain a positive and cohesive working environment throughout the development process.
 
 
-
+### 4. HW Proof
 
 
 
@@ -65,6 +66,18 @@ TOTAL COMMITS: 430
 <img src="{{site.baseurl}}/images/issue1.png" alt="Review photo" style="width:300px;">
 
 <img src="{{site.baseurl}}/images/issue2.png" alt="Review photo" style="width:300px;">
+
+
+### Hw proof 
+
+[Google Sheet](https://docs.google.com/spreadsheets/d/130ktKxISceMDomdYkFfVWEz7gGZjjEeqFx7oyh7ub5U/edit?gid=0#gid=0)
+
+
+[Google Sheet](https://docs.google.com/spreadsheets/d/144DzvGJCNFAdwL5g0mkvn9Uh-vOnWB-clap3J_yz7kE/edit?gid=0#gid=0)
+
+
+
+
 
 
 ### Trying out the grade predictor
