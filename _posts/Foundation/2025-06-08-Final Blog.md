@@ -1,20 +1,19 @@
 ## Final Blog!
 
-### Key ineterests
-
-
-I'm really interested in design and problem-solving, and I enjoy using coding to bring those two things together. I like finding creative ways to make ideas work and turning them into real, useful projects. Coding gives me a way to build things that not only look good but also solve problems and make tasks easier. I see it as a great mix of creativity and logic, and that's what keeps me motivated to keep learning and improving.
-
 
 
 ### Favorite project and my Unique Qualities
 
 
+My project from trimester 2 -->   Google maps api integration for our national parks page 
+
+
+Porject from trimester 3 --> Legoland social media analyzer
+
 As a developer deeply interested in data, social media trends, and user engagement, one of the projects I’m most proud of is a social media analysis platform built specifically for LEGOLAND. At the heart of it is a custom-built tool I developed called the Hashtag Engagement Analyzer.
 
-This tool allows users to input branded or community hashtags and instantly receive key metrics such as:
 
-Average likes per hashtag, Estimated reach/views, A calculated success score out of 10
+This project made me qualified to win a paid Pilot city internship which is why I selected this as my favorite project.
 
 
 **My Unique Qualities** I played a key role in designing the front-end interface of our project, ensuring it was both visually engaging and user-friendly. Additionally, I proposed the idea of extracting and analyzing data from Legoland’s social media presence, which became a central focus of our project. Beyond the technical aspects, I also contributed to fostering strong collaboration within our team, helping to maintain a positive and cohesive working environment throughout the development process.
