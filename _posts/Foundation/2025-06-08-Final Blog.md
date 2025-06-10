@@ -7,8 +7,10 @@
 
 My project from trimester 2 -->   Google maps api integration for our national parks page 
 
+<img src="{{site.baseurl}}/images/nn.png" alt="Review photo" style="width:300px;">
 
-Project from trimester 3 --> Legoland social media analyzer
+
+**FAVORITE PROJECT** - Project from trimester 3 -->   Legoland social media analyzer
 
 
 As a developer deeply interested in data, social media trends, and user engagement, one of the projects I’m most proud of is a social media analysis platform built specifically for LEGOLAND. At the heart of it is a custom-built tool I developed called the Hashtag Engagement Analyzer.
@@ -51,12 +53,12 @@ At Night at the Museum last week, our table attracted a steady crowd throughout 
 After we finished presenting, I had the chance to explore some of the other tables and check out a variety of impressive projects. One that caught my attention was the Bathroom Pass project—I got to see firsthand how it functions, which was really clever. I also spent some time at Vibha’s table, where she showcased a collection of mini-games designed to promote health in a fun and interactive way. It was inspiring to see such creativity and innovation from my peers.
 
 
+<img src="{{site.baseurl}}/images/natm1.jpg" alt="Review photo"
+     style="width:300px; display:inline-block;">
 
+<img src="{{site.baseurl}}/images/natm2.jpg" alt="Review photo"
+     style="width:300px; display:inline-block;">
 
-<img src="{{site.baseurl}}/images/natm1.jpg" alt="Review photo" style="width:300px;">
-
-
-<img src="{{site.baseurl}}/images/natm2.jpg" alt="Review photo" style="width:300px;">
 
 
 
