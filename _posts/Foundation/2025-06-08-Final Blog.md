@@ -15,6 +15,8 @@ My project from trimester 2 -->   Google maps api integration for our national p
 
 <img src="{{site.baseurl}}/images/nn.png" alt="Review photo" style="width:300px;">
 
+<img src="{{site.baseurl}}/images/qqq.png" alt="Review photo" style="width:300px;">
+
 
 For me, this was an intro into APIs which I really dived into during third trimester, creatinng an award winngin social media project
 
