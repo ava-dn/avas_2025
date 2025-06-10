@@ -33,6 +33,10 @@ For me, this was an intro into APIs which I really dived into during third trime
 
 
 
+
+
+
+
 **FAVORITE PROJECT** - Project from trimester 3 -->   Legoland social media analyzer
 
 
