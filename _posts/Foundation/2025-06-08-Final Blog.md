@@ -94,7 +94,7 @@ This project made me qualified to win a paid Pilot city internship which is why 
 | 9   | Legal/ Ethical HW                          | Mar 31, 2025 | [Legal/ Ethical HW](https://ava-dn.github.io/avas_2025/blogs/ethical-hw.html) |
 | 10  | Digital Divide HW                          | Mar 24, 2025 | [Digital Divide HW](https://ava-dn.github.io/avas_2025/blogs/2025-digital-divide-hw.html) |
 | 11  | Computerbias HW                           | Mar 23, 2025 | [Computerbias HW](https://ava-dn.github.io/avas_2025/blogs/computerbiashw.html) |
-| 12  | Beneficial/ Harmful Effects                                       | Mar 21, 2025 | [Hw2](https://ava-dn.github.io/avas_2025/blogs/hw2.html)               |
+| 12  | Beneficial/ Harmful Effects                                       | Mar 21, 2025 | [Beneficial/Harmful Effects](https://ava-dn.github.io/avas_2025/blogs/hw2.html)               |
 | 13  | Safe Computing HW                          | Mar 20, 2025 | [Safe Computing HW](https://ava-dn.github.io/avas_2025/blogs/tech-hw.html)       |
 
 
